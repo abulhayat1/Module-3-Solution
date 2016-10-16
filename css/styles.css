@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+
+.navbar-default .navbar-brand {
+    color: #080808;
+    font-size: 2em;
+}
+.row {
+margin:10px;
+
+}
+.row > div {
+
+   background-color: #ddd;
+   margin-bottom: 10px;
+   padding-bottom:30px; 
+ 
+
+}
+
+.hr{
+	border-color: grey;
+}
+
+.section {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+h1{
+	font-weight: 900;
+}
+
+#navd {
+    color: #dff0d8;
+    background: #080808;
+    font-size: 1.2em;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #dff0d8;
+}
